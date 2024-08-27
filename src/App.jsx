@@ -26,7 +26,7 @@ function App() {
 
 
   return (
-    <>
+    <> 
       <main className="app">
       <h1>My first react app</h1>
 
